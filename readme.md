@@ -15,4 +15,4 @@ Nas tim tvoria clenovia:
 1. Matúš Ratkovský
 2. Robert Pagáč
 3. Lucia Lahucka
-4.
+4. Tomas Vikiszaly
